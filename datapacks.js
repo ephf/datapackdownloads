@@ -1,1 +1,1 @@
-const datapacks = [];
+const datapacks = [{"path":"tpa.zip","name":"TPA","version":"1.16-1.17+"}]
