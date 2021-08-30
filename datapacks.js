@@ -1,1 +1,1 @@
-const datapacks = [{"path":"tpa.zip","name":"TPA","version":"1.16-1.17+"},{"path":"deathtp.zip"},{"path":"glowsquid.zip"},{"path":"hungerabsorption.zip"},{"path":"manhuntcompass.zip"},{"path":"openinv.zip"},{"path":"randomitemsfallfromthesky.zip"},{"path":"slimeboss.zip"},{"path":"thinice.zip"},{"path":"uhc.zip"},{"path":"worldedit.zip"}]
+const datapacks = [{"path":"tpa.zip","name":"TPA","version":"1.16-1.17+"}]
