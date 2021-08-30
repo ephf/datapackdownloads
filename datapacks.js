@@ -1,1 +1,1 @@
-const datapacks = {};
+const datapacks = [];
